@@ -1,5 +1,5 @@
 # mycode
-learning to track my code
+learning to track my code. Wanting to learn how to version control prokects with git.
 # mycode (Project Title)
 
 One Paragraph of your project description goes here. Describe what you're trying to do. What is the purpose of putting up this repo?
